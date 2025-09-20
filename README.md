@@ -23,12 +23,14 @@ It auto-updates your position, shows a blue marker for the user and red markers 
 
 ## 📸 Screenshots
 <p align="center">
-  <img src="screenshots/flutter_01.png" width="250" />
-  <img src="screenshots/flutter_02.png" width="250" />
-  <img src="screenshots/flutter_03.png" width="250" />
-  <img src="screenshots/flutter_04.png" width="250" />
-  <img src="screenshots/flutter_05.png" width="250" />
+  <img src="assets/icon/screenshot/flutter_01.png" width="250" />
+  <img src="assets/icon/screenshot/flutter_02.png" width="250" />
+  <img src="assets/icon/screenshot/flutter_03.png" width="250" />
+  <img src="assets/icon/screenshot/flutter_04.png" width="250" />
+  <img src="assets/icon/screenshot/flutter_05.png" width="250" />
+  <img src="assets/icon/screenshot/flutter_06.png" width="250" />
 </p>
+
 
 ---
 
