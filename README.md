@@ -22,15 +22,15 @@ It auto-updates your position, shows a blue marker for the user and red markers 
 ---
 
 ## 📸 Screenshots
-<p align="center">
-  <img src="assets/icon/screenshot/flutter_01.png" width="250" />
-  <img src="assets/icon/screenshot/flutter_02.png" width="250" />
-  <img src="assets/icon/screenshot/flutter_03.png" width="250" />
-  <img src="assets/icon/screenshot/flutter_04.png" width="250" />
-  <img src="assets/icon/screenshot/flutter_05.png" width="250" />
-  <img src="assets/icon/screenshot/flutter_06.png" width="250" />
-</p>
 
+<p align="center">
+  <img src="assets/icon/screenshot/flutter_01.png" width="200">
+  <img src="assets/icon/screenshot/flutter_02.png" width="200">
+  <img src="assets/icon/screenshot/flutter_03.png" width="200">
+  <img src="assets/icon/screenshot/flutter_04.png" width="200">
+  <img src="assets/icon/screenshot/flutter_05.png" width="200">
+  <img src="assets/icon/screenshot/flutter_06.png" width="200">
+</p>
 
 ---
 
@@ -41,10 +41,10 @@ It auto-updates your position, shows a blue marker for the user and red markers 
 - Android Studio or VS Code with Flutter & Dart plugins
 - A Google Cloud API key with **Maps SDK for Android** (restrict the key to your Android package for safety)
 
-### Install & Run
+### Installation
 ```bash
-git clone https://github.com/lanre4444/google_maps_app.git
-cd google_maps_app
+git clone https://github.com/lanre4444/Nearby-Places-Finder-google_maps_app.git
+cd Nearby-Places-Finder-google_maps_app
 flutter pub get
-# add your API key to android/app/src/main/AndroidManifest.xml (see below)
+# Add your API key to android/app/src/main/AndroidManifest.xml
 flutter run
